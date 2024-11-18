@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bb710fb-1ae9-4d8b-b436-1eef771d9a44" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/internal/controller/widthTable.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/models/riskRecordList.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/database.go" beforeDir="false" afterPath="$PROJECT_DIR$/database/database.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/controller/strategy.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/controller/strategy.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/crypto/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/doc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/hashes.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/hashes.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/hashes_generic.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/keccakf_amd64.s" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/keccakf_amd64.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/register.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/sha3.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/sha3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/sha3_s390x.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/sha3_s390x.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/shake.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/shake.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/shake_generic.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/xor.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/xor.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/xor_generic.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/sha3/xor_unaligned.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/cpu/cpu.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/cpu/cpu.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/cpu/cpu_arm64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/cpu/cpu_arm64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/cpu/cpu_arm64.s" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/cpu/cpu_arm64.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/cpu/cpu_gc_arm64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/cpu/cpu_gc_arm64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/cpu/cpu_linux_arm64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/cpu/cpu_linux_arm64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/asm_zos_s390x.s" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/asm_zos_s390x.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/epoll_zos.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/fstatfs_zos.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/mkerrors.sh" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/mkerrors.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/mremap.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/mremap.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/pagesize_unix.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/pagesize_unix.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/readdirent_getdirentries.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/readdirent_getdirentries.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_linux.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_linux.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_openbsd.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_openbsd.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_zos_s390x.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_zos_s390x.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/sysvshm_unix.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/sysvshm_unix.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/sysvshm_unix_other.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/sysvshm_unix_other.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_darwin_amd64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_darwin_amd64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_darwin_arm64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_darwin_arm64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_386.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_386.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_amd64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_amd64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_arm.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_arm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_arm64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_arm64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_loong64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_loong64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_mips.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_mips.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_mips64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_mips64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_mips64le.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_mips64le.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_mipsle.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_mipsle.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_ppc.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_ppc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_ppc64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_ppc64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_ppc64le.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_ppc64le.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_riscv64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_riscv64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_s390x.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_s390x.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_sparc64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_linux_sparc64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_zos_s390x.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zerrors_zos_s390x.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_darwin_amd64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_darwin_amd64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_darwin_amd64.s" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_darwin_amd64.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_darwin_arm64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_darwin_arm64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_darwin_arm64.s" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_darwin_arm64.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_linux.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_linux.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_386.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_386.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_386.s" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_386.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_amd64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_amd64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_amd64.s" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_amd64.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_arm.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_arm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_arm.s" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_arm.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_arm64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_arm64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_arm64.s" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_arm64.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_mips64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_mips64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_mips64.s" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_mips64.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_ppc64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_ppc64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_ppc64.s" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_ppc64.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_riscv64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_riscv64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_riscv64.s" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_openbsd_riscv64.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_zos_s390x.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_zos_s390x.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_386.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_386.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_amd64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_amd64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_arm.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_arm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_arm64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_arm64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_loong64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_loong64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_mips.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_mips.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_mips64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_mips64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_mips64le.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_mips64le.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_mipsle.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_mipsle.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_ppc.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_ppc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_ppc64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_ppc64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_ppc64le.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_ppc64le.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_riscv64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_riscv64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_s390x.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_s390x.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_sparc64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_linux_sparc64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_zos_s390x.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsysnum_zos_s390x.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_386.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_386.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_amd64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_amd64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_arm.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_arm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_arm64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_arm64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_loong64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_loong64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_mips.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_mips.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_mips64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_mips64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_mips64le.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_mips64le.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_mipsle.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_mipsle.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_ppc.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_ppc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_ppc64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_ppc64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_ppc64le.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_ppc64le.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_riscv64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_riscv64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_s390x.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_s390x.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_sparc64.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_linux_sparc64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_zos_s390x.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/sys/unix/ztypes_zos_s390x.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/text/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/modules.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/modules.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/sdk/go1.22.2" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestsSettings">{}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1716282984" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1716282983" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/vendor/gorm.io/gorm/schema/naming.go" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/sdk/go1.22.2/src/os/env.go" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eqKw1xVXhRLmYEgBBaTgEHuEaM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;Go Remote.Debug.executor&quot;: &quot;Debug&quot;,
+    &quot;Go Remote.未命名.executor&quot;: &quot;Debug&quot;,
+    &quot;Go 构建.go build risk.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Liu/Desktop/夜无疆.txt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Liu\Documents\Code\Go\Risk\internal\models" />
+      <recent name="C:\Users\Liu\Documents\Code\Go\Risk\internal\controller" />
+      <recent name="C:\Users\Liu\Documents\Code\Go\Risk\Models" />
+      <recent name="C:\Users\Liu\Documents\Code\Go\Risk\database" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Liu\Documents\Code\Go\Risk" />
+      <recent name="C:\Users\Liu\Documents\Code\Go\Risk\src" />
+      <recent name="C:\Users\Liu\Documents\Code\Go\Risk\cmd" />
+      <recent name="C:\Users\Liu\Documents\Code\Go\Risk\internal" />
+      <recent name="C:\Users\Liu\Documents\Code\Go\Risk\configs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go 构建.go build risk">
+    <configuration name="go build risk" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Risk" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="risk" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug" type="GoRemoteDebugConfigurationType" factoryName="Go Remote">
+      <option name="disconnectOption" value="ASK" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build risk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-d297c17c1fbd-b87a2f8923ed-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-243.21565.135" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-GO-243.21565.135" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+    <option name="myConnectionId" value="" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn" />
+      </map>
+    </environment>
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
